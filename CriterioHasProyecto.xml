@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>1</long>
+    </void>
+    <void property="valor">
+     <string>4</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>2</long>
+    </void>
+    <void property="valor">
+     <string>3</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>3</long>
+    </void>
+    <void property="valor">
+     <string>1</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>1</long>
+    </void>
+    <void property="idProyecto">
+     <long>1</long>
+    </void>
+    <void property="valor">
+     <string>4000</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>2</long>
+    </void>
+    <void property="idProyecto">
+     <long>1</long>
+    </void>
+    <void property="valor">
+     <string>-3000</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>3</long>
+    </void>
+    <void property="idProyecto">
+     <long>1</long>
+    </void>
+    <void property="valor">
+     <string>5000</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>1</long>
+    </void>
+    <void property="idProyecto">
+     <long>2</long>
+    </void>
+    <void property="valor">
+     <string>6</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>2</long>
+    </void>
+    <void property="idProyecto">
+     <long>2</long>
+    </void>
+    <void property="valor">
+     <string>10</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>3</long>
+    </void>
+    <void property="idProyecto">
+     <long>2</long>
+    </void>
+    <void property="valor">
+     <string>8</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>1</long>
+    </void>
+    <void property="idProyecto">
+     <long>3</long>
+    </void>
+    <void property="valor">
+     <string>Alta</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>2</long>
+    </void>
+    <void property="idProyecto">
+     <long>3</long>
+    </void>
+    <void property="valor">
+     <string>Muy alta</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>3</long>
+    </void>
+    <void property="idProyecto">
+     <long>3</long>
+    </void>
+    <void property="valor">
+     <string>Moderado</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>1</long>
+    </void>
+    <void property="idProyecto">
+     <long>4</long>
+    </void>
+    <void property="valor">
+     <string>Alta</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>2</long>
+    </void>
+    <void property="idProyecto">
+     <long>4</long>
+    </void>
+    <void property="valor">
+     <string>Baja</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>3</long>
+    </void>
+    <void property="idProyecto">
+     <long>4</long>
+    </void>
+    <void property="valor">
+     <string>Moderado</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>1</long>
+    </void>
+    <void property="idProyecto">
+     <long>5</long>
+    </void>
+    <void property="valor">
+     <string>10</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>2</long>
+    </void>
+    <void property="idProyecto">
+     <long>5</long>
+    </void>
+    <void property="valor">
+     <string>70</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.CriterioHasProyecto">
+    <void property="idCriterio">
+     <long>3</long>
+    </void>
+    <void property="idProyecto">
+     <long>5</long>
+    </void>
+    <void property="valor">
+     <string>100</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

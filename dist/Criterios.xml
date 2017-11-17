@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_144" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="prototipo.model.Criterios">
+    <void property="ID">
+     <int>1</int>
+    </void>
+    <void property="defaul">
+     <boolean>true</boolean>
+    </void>
+    <void property="mejor">
+     <boolean>true</boolean>
+    </void>
+    <void property="nombre">
+     <string>Duración(en meses)</string>
+    </void>
+    <void property="ponderacion">
+     <int>15</int>
+    </void>
+    <void property="tipo">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.Criterios">
+    <void property="ID">
+     <int>2</int>
+    </void>
+    <void property="defaul">
+     <boolean>true</boolean>
+    </void>
+    <void property="mejor">
+     <boolean>false</boolean>
+    </void>
+    <void property="nombre">
+     <string>VPN</string>
+    </void>
+    <void property="ponderacion">
+     <int>25</int>
+    </void>
+    <void property="tipo">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.Criterios">
+    <void property="ID">
+     <int>3</int>
+    </void>
+    <void property="defaul">
+     <boolean>true</boolean>
+    </void>
+    <void property="mejor">
+     <boolean>true</boolean>
+    </void>
+    <void property="nombre">
+     <string>PRI</string>
+    </void>
+    <void property="ponderacion">
+     <int>20</int>
+    </void>
+    <void property="tipo">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.Criterios">
+    <void property="ID">
+     <int>4</int>
+    </void>
+    <void property="defaul">
+     <boolean>true</boolean>
+    </void>
+    <void property="mejor">
+     <boolean>true</boolean>
+    </void>
+    <void property="nombre">
+     <string>Riesgo</string>
+    </void>
+    <void property="ponderacion">
+     <int>20</int>
+    </void>
+    <void property="tipo">
+     <boolean>false</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.Criterios">
+    <void property="ID">
+     <int>5</int>
+    </void>
+    <void property="defaul">
+     <boolean>true</boolean>
+    </void>
+    <void property="mejor">
+     <boolean>false</boolean>
+    </void>
+    <void property="nombre">
+     <string>Generación de tecnología propietaria</string>
+    </void>
+    <void property="ponderacion">
+     <int>15</int>
+    </void>
+    <void property="tipo">
+     <boolean>false</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.Criterios">
+    <void property="ID">
+     <int>6</int>
+    </void>
+    <void property="defaul">
+     <boolean>false</boolean>
+    </void>
+    <void property="mejor">
+     <boolean>true</boolean>
+    </void>
+    <void property="nombre">
+     <string>Criterio 5</string>
+    </void>
+    <void property="ponderacion">
+     <int>5</int>
+    </void>
+    <void property="tipo">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

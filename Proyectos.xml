@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="prototipo.model.Proyectos">
+    <void property="ID">
+     <long>1</long>
+    </void>
+    <void property="costo">
+     <double>15000.0</double>
+    </void>
+    <void property="descripcion">
+     <string></string>
+    </void>
+    <void property="nombre">
+     <string>a</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.Proyectos">
+    <void property="ID">
+     <long>2</long>
+    </void>
+    <void property="costo">
+     <double>10000.0</double>
+    </void>
+    <void property="descripcion">
+     <string></string>
+    </void>
+    <void property="nombre">
+     <string>b</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="prototipo.model.Proyectos">
+    <void property="ID">
+     <long>3</long>
+    </void>
+    <void property="costo">
+     <double>17000.0</double>
+    </void>
+    <void property="descripcion">
+     <string></string>
+    </void>
+    <void property="nombre">
+     <string>c</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
